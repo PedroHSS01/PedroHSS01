@@ -1,5 +1,5 @@
 # 👋 Olá, Mundo! Me chamo Pedro Sousa mas poucas pessoas me conhecem como Petrós 👩🏽‍💻.
-Entusiasta de novas tecnologias e sus aplicaões. Formado e com cinco anos de experiência no setor logístico. Atualmente, universitário e calouro na área de programação e análise dedos. 
+Curioso por profissão. Formado e com cinco anos de experiência no setor logístico. Atualmente, universitário de ADS e pós-graduando em análise de dados com software R. 
 
 ## 💻 linguagens
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
