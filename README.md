@@ -10,9 +10,8 @@ Curioso por profissão. Formado e com cinco anos de experiência no setor logís
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]([https://www.linkedin.com/in/pedrohs07041999/](https://www.linkedin.com/in/pedro-h-s-sousa/))
 
 # 📊 Estatísticas do GitHub::
-![](https://github-readme-stats.vercel.app/api?username=PedroHSS01&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=PedroHSS01&theme=github_dark_dimmed&hide_border=true)<br/>
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSS01&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="412">
+![](https://github-readme-stats.vercel.app/api?username=PedroHSS01&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=PedroHSS01&theme=github_dark_dimmed&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSS01&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="412">
 <br><br>
 
 ## 🏆 Troféus do GitHub
