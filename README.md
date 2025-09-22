@@ -33,3 +33,12 @@ Curioso por profissão. Formado e com cinco anos de experiência no setor logís
 
 
 [![](https://visitcount.itsvg.in/api?id=PedroHSS01&icon=3&color=0)](https://visitcount.itsvg.in)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroHSS01/PedroHSS01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroHSS01/PedroHSS01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroHSS01/PedroHSS01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
