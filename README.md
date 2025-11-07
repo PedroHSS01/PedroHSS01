@@ -1,3 +1,7 @@
+<tr>
+    <td colspan="2"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000"></td>
+</tr>
+
 # 👋 Olá, mundo! Aqui você verá desde DevOps e Data Science a Cloud Computing e IA👩🏽‍💻.
 Curioso por profissão. Formado e com cinco anos de experiência no setor logístico. Atualmente, universitário em DevOps, com uma bagagem de extensão universitária em Análise de Dados com R e cursos técnicos em Data Science e Cloud Computing (AWS Certified Cloud Practitioner)
 
@@ -22,9 +26,6 @@ Curioso por profissão. Formado e com cinco anos de experiência no setor logís
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=PedroHSS01&theme=github_dark_dimmed&hide_border=true&width=400"></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHSS01&theme=github_dark_dimmed&hide_border=true&layout=compact&width=400"></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800"></td>
   </tr>
 </table>
 
